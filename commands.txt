@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m ""
+git log
+git reset 
+git remote -v
+git remote add origin "remote-repo-url"
+git push origin "branch-name"
+git clone "remote-repo-url"
+git pull origin "branch-name"
