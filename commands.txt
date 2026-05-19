@@ -9,3 +9,6 @@ git remote add origin "remote-repo-url"
 git push origin "branch-name"
 git clone "remote-repo-url"
 git pull origin "branch-name"
+git branch
+git branch "branch-name"
+git checkout "branch-name"
